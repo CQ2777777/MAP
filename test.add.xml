@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-02-25 18:53:56 by Eclipse SUMO netedit Version 1.22.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- StoppingPlaces -->
+    <parkingArea id="pa_0" lane="E0_2" startPos="470.00" endPos="530.00" friendlyPos="true" roadsideCapacity="12"/>
+    <parkingArea id="pa_1" lane="E1_2" startPos="470.00" endPos="530.00" friendlyPos="true" roadsideCapacity="12"/>
+    <parkingArea id="pa_10" lane="E11_2" startPos="470.00" endPos="530.00" roadsideCapacity="12"/>
+    <parkingArea id="pa_11" lane="E9_2" startPos="470.00" endPos="530.00" roadsideCapacity="12"/>
+    <parkingArea id="pa_2" lane="E2_2" startPos="470.00" endPos="530.00" friendlyPos="true" roadsideCapacity="12"/>
+    <parkingArea id="pa_3" lane="E3_2" startPos="470.00" endPos="530.00" friendlyPos="true" roadsideCapacity="12"/>
+    <parkingArea id="pa_4" lane="E4_2" startPos="470.00" endPos="530.00" friendlyPos="true" roadsideCapacity="12"/>
+    <parkingArea id="pa_5" lane="E5_2" startPos="470.00" endPos="530.00" roadsideCapacity="12"/>
+    <parkingArea id="pa_6" lane="E6_2" startPos="470.00" endPos="530.00" roadsideCapacity="12"/>
+    <parkingArea id="pa_7" lane="E7_2" startPos="470.00" endPos="530.00" roadsideCapacity="12"/>
+    <parkingArea id="pa_8" lane="E8_2" startPos="470.00" endPos="530.00" roadsideCapacity="12"/>
+    <parkingArea id="pa_9" lane="E10_2" startPos="470.00" endPos="530.00" roadsideCapacity="12"/>
+    <chargingStation id="cs_0" lane="E1_2" startPos="460.00" endPos="530.00" power="65000.00" efficiency="0.99"/>
+    <chargingStation id="cs_1" lane="E0_2" startPos="460.00" endPos="530.00" power="65000.00" efficiency="0.99"/>
+    <chargingStation id="cs_10" lane="E11_2" startPos="460.00" endPos="530.00" power="65000.00" efficiency="0.99"/>
+    <chargingStation id="cs_11" lane="E9_2" startPos="460.00" endPos="530.00" power="65000.00" efficiency="0.99"/>
+    <chargingStation id="cs_2" lane="E2_2" startPos="460.00" endPos="530.00" power="65000.00" efficiency="0.99"/>
+    <chargingStation id="cs_3" lane="E3_2" startPos="460.00" endPos="530.00" power="65000.00" efficiency="0.99"/>
+    <chargingStation id="cs_4" lane="E4_2" startPos="460.00" endPos="530.00" power="65000.00" efficiency="0.99"/>
+    <chargingStation id="cs_5" lane="E5_2" startPos="460.00" endPos="530.00" power="65000.00" efficiency="0.99"/>
+    <chargingStation id="cs_6" lane="E6_2" startPos="460.00" endPos="530.00" power="65000.00" efficiency="0.99"/>
+    <chargingStation id="cs_7" lane="E7_2" startPos="460.00" endPos="530.00" power="65000.00" efficiency="0.99"/>
+    <chargingStation id="cs_8" lane="E8_2" startPos="460.00" endPos="530.00" power="65000.00" efficiency="0.99"/>
+    <chargingStation id="cs_9" lane="E10_2" startPos="460.00" endPos="530.00" power="65000.00" efficiency="0.99"/>
+</additional>
